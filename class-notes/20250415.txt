@@ -1,0 +1,13 @@
+Tools needed to create program
+1. A functional brain
+2. Paper, pen, pencil etc.
+3. Computer (any form factor)
+4. Code Editor (VS Code)
+5. JDK 21 LTS
+
+How C and Java are different?
+ - They differ in paradigm.
+
+1. Create a repository for java-assignment in GitHub.
+2. Create 20 Java programs spanning various programming concepts viz.
+   decision, loop, arrays, user-defined functions etc.
