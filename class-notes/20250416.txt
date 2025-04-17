@@ -1,0 +1,22 @@
+DataStream - open/close
+
+C if statement			0 or non-zero	(if n%2==0)
+Java if statement		Boolean values (true/false)
+
+
+value of EOF constant in C.	-1
+
+
+FILE *fp = fopen("file.csv", "r");
+
+fclose(fp);
+
+Head First Java
+
+public class Test {
+	Test() {
+		
+	}
+}
+
+UML
