@@ -1,0 +1,31 @@
+Project: A well-structured assignment.
+
+	Create a solution of a problem as a software.
+
+1. Medical Store Management System (Tausif)
+2. Campus Recruitment System (Hritik)
+3. Restaurant Management System (Tanveer)
+4. Online Assessment System (Shubham)
+5. Library Management System (Vishwajeet)
+6. School Management System (Sudha)
+
+
+MIS: Management Information System
+
+TPS: Transaction Processing System
+
+DSS: Decision Support System
+
+Project Synopsis
+1. Title
+2. Problem description/statement
+3. Objective
+4. Scope
+5. Methodology Used
+6. Literature Review
+7. Technology to be used
+8. Hardware & Software Requirement
+9. Conclusion
+
+
+
