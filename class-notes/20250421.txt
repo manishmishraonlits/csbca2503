@@ -1,0 +1,5 @@
+Separation of Concerns
+
+M	-	Model
+V	-	View
+C	-	Controller
