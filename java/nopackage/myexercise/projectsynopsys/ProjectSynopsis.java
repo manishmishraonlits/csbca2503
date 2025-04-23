@@ -4,11 +4,37 @@ class ProjectSynopsis {
     private String[] objectives;
     private String scope;
 
-    public void read() {
+    public ProjectSynopsis() {}
 
+    public void setTitle(String title) {
+        this.title = title;
     }
 
-    public void display() {
-        
+    public String getTitle() {
+        return title;
+    }
+
+    public void setProblemStatement(String problemStatement) {
+        this.problemStatement = problemStatement;
+    }
+
+    public String getProblemStatement() {
+        return problemStatement
+    }
+
+    public void setObjectives(String[] objectives) {
+        objectives = objectives;
+    }
+
+    public String[] getObjectives() {
+        return objectives;
+    }
+
+    public void setScope(String scope) {
+        this.scope = scope;
+    }
+
+    public String getScope() {
+        return scope;
     }
 }
