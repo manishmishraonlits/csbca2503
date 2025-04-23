@@ -8,6 +8,9 @@ Project: A well-structured assignment.
 4. Online Assessment System (Shubham)
 5. Library Management System (Vishwajeet)
 6. School Management System (Sudha)
+7. Pathology Management System (Kashif)
+8.
+9.
 
 
 MIS: Management Information System
@@ -21,7 +24,7 @@ Project Synopsis
 2. Problem description/statement
 3. Objective
 4. Scope
-5. Methodology Used
+5. Methodology Used*
 6. Literature Review
 7. Technology to be used
 8. Hardware & Software Requirement

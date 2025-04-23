@@ -1,0 +1,24 @@
+IGNOU MCA Project Paper (mcsp232)
+
+Parking Lot Management System 
+	- Spot Management
+	- Vehicle check-in
+	- Vehicle check-out
+	- Accounts
+	- Staff Management
+
+	- Membership
+	- PWD
+	- Payroll
+	- GST
+	- Online payment
+	- Customer Portal/App
+
+Research Methodology
+POS Management System/ Supermarket billing system
+	
+
+Tools used for gathering information:
+	1. Literature Survey/Review
+	2. Interview/Questionnaire
+	3. Onsite Observation
