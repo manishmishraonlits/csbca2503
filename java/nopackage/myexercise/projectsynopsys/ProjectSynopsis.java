@@ -19,7 +19,7 @@ class ProjectSynopsis {
     }
 
     public String getProblemStatement() {
-        return problemStatement
+        return problemStatement;
     }
 
     public void setObjectives(String[] objectives) {
@@ -36,5 +36,12 @@ class ProjectSynopsis {
 
     public String getScope() {
         return scope;
+    }
+
+    public void display() {
+        System.out.println("BCA III");
+        System.out.println("SESSION - 2022-25");
+        System.out.println("PROJECT SYNOPSYS");
+        System.out.println("-------------------------------------------");
     }
 }
