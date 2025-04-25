@@ -5,11 +5,11 @@ Project: A well-structured assignment.
 1. Medical Store Management System (Tausif)
 2. Campus Recruitment System (Hritik)
 3. Restaurant Management System (Tanveer)
-4. Online Assessment System (Shubham)
+4. Hospital Management System (Shubham)
 5. Library Management System (Vishwajeet)
 6. School Management System (Sudha)
 7. Pathology Management System (Kashif)
-8.
+8. Sports Club Management System (Sonu)
 9.
 
 

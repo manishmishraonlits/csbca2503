@@ -1,5 +1,5 @@
 class ProjectSynopsis {
-    private String title;
+    String title;
     private String problemStatement;
     private String[] objectives;
     private String scope;
@@ -23,7 +23,7 @@ class ProjectSynopsis {
     }
 
     public void setObjectives(String[] objectives) {
-        objectives = objectives;
+        this.objectives = objectives;
     }
 
     public String[] getObjectives() {
@@ -43,5 +43,11 @@ class ProjectSynopsis {
         System.out.println("SESSION - 2022-25");
         System.out.println("PROJECT SYNOPSYS");
         System.out.println("-------------------------------------------");
+        System.out.println("Title: " + title);
+        System.out.println("Problem Statement: " + problemStatement);
+        // for(int i=0; i<objectives.length; i++)
+        {
+            
+        }
     }
 }
