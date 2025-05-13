@@ -1,5 +1,5 @@
 class ProjectSynopsis {
-    String title;
+    private String title;
     private String problemStatement;
     private String[] objectives;
     private String scope;
@@ -45,9 +45,11 @@ class ProjectSynopsis {
         System.out.println("-------------------------------------------");
         System.out.println("Title: " + title);
         System.out.println("Problem Statement: " + problemStatement);
-        // for(int i=0; i<objectives.length; i++)
-        {
-            
+        System.out.println("Ojbectives:");
+        for (String objective : objectives) {
+            System.out.println(objective);
         }
+        System.out.println("Scope: ");
+        System.out.println(scope);
     }
 }

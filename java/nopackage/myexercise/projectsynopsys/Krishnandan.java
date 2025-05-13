@@ -2,7 +2,6 @@ public class Krishnandan
 {
     public static void main(String[] args) {
         ProjectSynopsis krishProjectSynopsis = new ProjectSynopsis();
-        krishProjectSynopsis.title = "";
         krishProjectSynopsis.setTitle("Parking Lot Management System");
         krishProjectSynopsis.setProblemStatement("Most of the parking lots in my city are manually managed ...");
         String[] objectives = {
@@ -11,6 +10,7 @@ public class Krishnandan
         };
 
         krishProjectSynopsis.setObjectives(objectives);
+        krishProjectSynopsis.setScope("Scope of the project goes here...");
         krishProjectSynopsis.display();
     }
 }

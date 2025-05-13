@@ -1,0 +1,10 @@
+Post Synopsis Approval
+
+System Analysis
+	- Feasibility Analysis (Report)
+		- Economic
+		- Technical
+		- Operational
+		- Behavioural
+
+SRS

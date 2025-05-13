@@ -3,5 +3,9 @@ class Student1 {
         ProjectSynopsis hospitalManagementSystem = new ProjectSynopsis();
         hospitalManagementSystem.setTitle("Hospital Management System");
         hospitalManagementSystem.display();
+        String[] objectives = {
+            null,
+            null
+        };
     }
 }
