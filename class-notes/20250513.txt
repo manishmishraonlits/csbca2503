@@ -1,0 +1,4 @@
+WAP to read a string and find its length.
+WAP to read full name of the uses and display his initials.
+WAP to read a sentence and count the number of words in it.
+WAP to read a word and find whether it is a palindrome or not.
