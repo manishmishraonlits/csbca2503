@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 
 public class Slot {
 
@@ -47,8 +48,8 @@ public class Slot {
         System.out.println("Data inserted!");
     }
 
-    public static Slot[] getSlots() throws SQLException {
-        Slot[] slots = new Slot[10];            // Replace it by ArrayList instance
+    public static ArrayList<Slot> getSlots() throws SQLException {
+        ArrayList<Slot> slots = new ArrayList<Slot>();
         final String url = "jdbc:mysql://localhost:3306/plms_2503";
         final String user = "csbca2503";
         final String password = "csbca2503";
@@ -56,11 +57,8 @@ public class Slot {
         String sql = "SELECT * FROM slot";
         Statement statement = connection.createStatement();
         ResultSet resultSet = statement.executeQuery(sql);
-        int i = 0;
         while(resultSet.next()){
-            slots[i].id = resultSet.getString("id");
-            slots[i].type = resultSet.getString("type");
-            i++;
+            slots.add(new Slot(resultSet.getString("id"), resultSet.getString("type")));
         }
         connection.close();
         return slots;
